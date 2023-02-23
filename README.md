@@ -1,0 +1,2 @@
+Cara install di PC Windows : 
+extract folder ke dekstop > klik install.bat > tunggu beberapa menit > tekan Y untuk install Spotify > terus ikutin arahan & command yg ada disana > selesai patched, buka spotify > login spotify seperti biasa > selesai
