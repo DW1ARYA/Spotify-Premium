@@ -1,8 +1,6 @@
 @echo off
 SETLOCAL ENABLEDELAYEDEXPANSION
 echo *****************
-echo Author: @amd64fox
-echo *****************
 echo Removing Patch...
 
 
